@@ -25,7 +25,7 @@
     "rollup-plugin-node-resolve": "^5.2.0",
     "rollup-plugin-svelte": "^7.0.0",
     "rollup-plugin-transform-input": "git+https://github.com/RedHatter/rollup-plugin-transform-input.git",
-    "svelte": "^3.20.1",
+    "svelte": "^5.2.3",
     "svelte-listener": "git+https://github.com/RedHatter/svelte-listener.git",
     "svgexport": "^0.4.1",
     "web-ext": "^6.1.0",
